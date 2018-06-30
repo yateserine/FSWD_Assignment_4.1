@@ -1,0 +1,12 @@
+/* --  division created with class name third with background set to white and text to black --*/
+div.third   {
+    background: #FFFFFF;
+    color: black;
+}
+
+/* -- class selector created bg_blue that sets the background blue to line item when used --*/
+#bg_blue    {
+    background: blue;
+}
+
+                
